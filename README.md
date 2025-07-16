@@ -13,10 +13,10 @@
 
 ## Roles & Contributions
 
-- **Ilham Yusuf** – Simulated supermarket transaction data; generated `supermarket_transactions.csv` using Python with 30 unique items and 3000 transactions.
+- **Ilham Yusuf** – Simulated supermarket transaction data using Python. She generated 3000 transactions, each containing 2–7 randomly selected items from a pool of 30 unique products. Her work produced the `supermarket_transactions.csv` file.
 - **Yar Deng Kuot** -Created a custom version of the Apriori algorithm from scratch. She manually handled generating itemsets, calculating support, and picking out the most frequent ones. Her work is in `apriori_custom.ipynb`, and she also exported the results to `frequent_itemsets.csv`,Displayed and exported the top 10 itemsets.
-- **Ruth Musanhu** -
-- **Ziza Maranga** -
+- **Ruth Musanhu** - (*pending*)
+- **Ziza Maranga** - (*pending*)
 - **Samuel Kasusya** - Responsible for structuring and writing the `README.md` file. Documented each group member’s contribution, ensured clarity in instructions for running the project, and maintained alignment with assignment requirements.
 
 
