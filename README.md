@@ -14,7 +14,7 @@
 ## Roles & Contributions
 
 - **Ilham Yusuf** – Simulated supermarket transaction data; generated `supermarket_transactions.csv` using Python with 30 unique items and 3000 transactions.
-- **Yar Deng Kuot** -Created a custom version of the Apriori algorithm from scratch. She manually handled generating itemsets, calculating support, and picking out the most frequent ones. Her work is in `apriori_custom.ipynb`, and she also exported the results to `top_10_frequent_itemsets.csv`,Displayed and exported the top 10 itemsets.
+- **Yar Deng Kuot** -Created a custom version of the Apriori algorithm from scratch. She manually handled generating itemsets, calculating support, and picking out the most frequent ones. Her work is in `apriori_custom.ipynb`, and she also exported the results to `frequent_itemsets.csv`,Displayed and exported the top 10 itemsets.
 - **Ruth Musanhu** -
 - **Ziza Maranga** -
 - **Samuel Kasusya** -
