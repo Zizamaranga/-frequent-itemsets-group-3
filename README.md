@@ -6,11 +6,11 @@
 **Submission Format:** GitHub Repository (with code, outputs, and group documentation)
 
 ## Group Members
-Ilham Mohamed- 670152 - iamohamed@usiu.ac.ke
-Yar Deng Kuot-669215 - ydkuot@usiu.ac.ke
-Ruth Musanhu 670474 - rmusanhu@usiu.ac.ke
-Ziza Maranga - 669613 - mziza@usiu.ac.ke
-Samuel Kasusya -668694 - smkasusya@usiu.ac.ke
+- Ilham Mohamed- 670152 - iamohamed@usiu.ac.ke
+- Yar Deng Kuot-669215 - ydkuot@usiu.ac.ke
+- Ruth Musanhu 670474 - rmusanhu@usiu.ac.ke
+- Ziza Maranga - 669613 - mziza@usiu.ac.ke
+- Samuel Kasusya -668694 - smkasusya@usiu.ac.ke
 
 ## Roles & Contributions
 
