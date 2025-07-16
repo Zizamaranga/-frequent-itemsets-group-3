@@ -17,7 +17,7 @@
 - **Yar Deng Kuot** -Created a custom version of the Apriori algorithm from scratch. She manually handled generating itemsets, calculating support, and picking out the most frequent ones. Her work is in `apriori_custom.ipynb`, and she also exported the results to `frequent_itemsets.csv`,Displayed and exported the top 10 itemsets.
 - **Ruth Musanhu** -
 - **Ziza Maranga** -
-- **Samuel Kasusya** -
+- **Samuel Kasusya** - Responsible for structuring and writing the `README.md` file. Documented each group member’s contribution, ensured clarity in instructions for running the project, and maintained alignment with assignment requirements.
 
 
 ## How to Run
