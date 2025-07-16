@@ -25,14 +25,9 @@
 
 1. Clone the repo: https://github.com/Zizamaranga/-frequent-itemsets-group-3
 
-2. Open the notebooks:
-- `apriori_custom.ipynb` (for manual implementation)
-- `frequent_itemsets_analysis.ipynb` (for mlxtend-based)
-
-3. Make sure the required libraries are installed:
+2. Make sure the required libraries are installed:
 - pip install pandas mlxtend
 
-
-4. Run the notebook cells in this order:
+3. Run the notebook cells in this order:
 - i. Frequent Itemsets.ipynb
 - ii. apriori_custom.ipynb
