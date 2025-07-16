@@ -6,11 +6,11 @@
 **Submission Format:** GitHub Repository (with code, outputs, and group documentation)
 
 ## Group Members
-Ilham Mohamed- 670152
-Yar Deng Kuot-669215
-Ruth Musanhu 670474
-Ziza Maranga - 669613
-Samuel Kasusya -668694
+- Ilham Mohamed- 670152
+- Yar Deng Kuot-669215
+- Ruth Musanhu 670474
+- Ziza Maranga - 669613
+- Samuel Kasusya -668694
 
 ## 🛠️ Roles & Contributions
 
