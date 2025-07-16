@@ -3,7 +3,6 @@
 
 **Course:** Data Mining / Warehousing  
 **Title:** Exploring Frequent Itemsets: Closed vs Maximal in Supermarket Data  
-**Submission Format:** GitHub Repository (with code, outputs, and group documentation)
 
 ## Group Members
 - Ilham Mohamed- 670152 - iamohamed@usiu.ac.ke
